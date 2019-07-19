@@ -2032,7 +2032,7 @@ for n in xrange(1, 31):
     Iteration 30, test error = 0.376777251185
     
 
-### Visualize both the training and test errors
+### Visualize both the training and test errors 
 
 Now, let us plot the training & test error with the number of iterations.
 
@@ -2056,7 +2056,7 @@ plt.tight_layout()
 
 ** Quiz Question:** From this plot (with 30 trees), is there massive overfitting as the # of iterations increases?
 
-**NO**
+**NO** 
 
 
 ```python
